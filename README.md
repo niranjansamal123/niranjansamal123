@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Niranjan and I'm a full stack .Net Developer from India</h2>
+<h1 align="center">Hi 👋! My name is Niranjan and I'm a full stack .Net Developer from India</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 <img align="right" height="150" src="https://i.gifer.com/QWc9.gif"  />
 
 ###
-
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -44,7 +44,7 @@
 </div>
 
 ###
-
+# 🌍 Social Media:
 <div align="left">
   <a href="www.linkedin.com/in/niranjan-samal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -64,6 +64,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/niranjansamal123/niranjansamal123/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
-###
